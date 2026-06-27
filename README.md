@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./gitprofilebanner.png" width="800" alt="Banner">
+</p>
+
 ### Hey there! 👋
 
 I'm Ayush, a Computer Science (Data Science) student from India.
