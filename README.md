@@ -1,4 +1,4 @@
-# Hey there! 👋
+### Hey there! 👋
 
 I'm **[Ayush](https://linkedin.com/in/ayushgiri2003)**, a Computer Science (Data Science) student from India.
 
