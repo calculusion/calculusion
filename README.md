@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gitprofilebanner.png" width="800" alt="Banner">
+  <img src="./gitprofilebanner.png" width="100%" alt="Banner">
 </p>
 
 ### Hey there! 👋
